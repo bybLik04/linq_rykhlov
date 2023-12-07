@@ -11,6 +11,6 @@ namespace linq_rykhlov
         public int ID;
         public string Name;
         public int Age;
-        public DateTime Birthate;
+        public DateTime Birthdate;
     }
 }
